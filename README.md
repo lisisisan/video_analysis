@@ -12,8 +12,8 @@
 - dogsled, bighorn, muzzle, coated, whippet, deerhound, triceratops, fountain, bow, ibex
 
 **Кадры с подписями объектов:**  
-![frame1](image_frames/frame_0.jpg)  
-![frame2](image_frames/frame_30.jpg)
+![frame1](image_frames_croped/frame_0.jpg)  
+![frame2](image_frames_croped/frame_30.jpg)
 
 **Вывод:**  
 Модель распознала отдельные объекты, включая **horse** (лошадь), но многие предсказания были странными или не отражали действия на видео.  
