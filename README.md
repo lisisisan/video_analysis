@@ -13,7 +13,7 @@
 
 **Кадры с подписями объектов:**  
 ![frame1](image_frames_croped/frame_0.jpg)  
-![frame2](image_frames_croped/frame_30.jpg)
+![frame2](image_frames_croped/frame_3420.jpg)
 
 **Вывод:**  
 Модель распознала отдельные объекты, включая **horse** (лошадь), но многие предсказания были странными или не отражали действия на видео.  
